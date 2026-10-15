@@ -42,7 +42,7 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 > **Flying solo? Ignore this — just add your entry. No club required.** 🧱
 
 <!-- ────────────────────────────────────────────────────────────────── -->
-<!-- ✍️  ADD YOUR ENTRY BELOW — put it between the two ENTRIES markers.   -->
+<!-- ✍️  ADD YOUR ENTRY BELOW — put it between the two ENTRIES markers.   --> 
 <!--     Newest entries go at the TOP, right under ENTRIES:START.        -->
 <!--     Don't edit anything outside the markers. Attribution required:  -->
 <!--     end your block with `**Contributed by [@handle](profile URL)**`. -->
@@ -52,7 +52,7 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!--     Contributing on your own? Ignore it — no club needed.           -->
 <!-- ────────────────────────────────────────────────────────────────── -->
 
-<!-- ENTRIES:START -->
+<!-- ENTRIES:START --> Sathya Nagendra
 
 ### @169pi — the first brick 🧱
 
